@@ -23,3 +23,6 @@ Or I can use *italics* and **bold** fonts. There is so much to markdown, even th
 # Summary
 
 You can even create headers like what I just did here.
+
+> "To live a creative life, we must lose our fear of being wrong" - Anonymous
+
