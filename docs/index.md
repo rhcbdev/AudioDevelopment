@@ -5,7 +5,7 @@ This is the home page of this website/project. Other pages on this site can be l
 I can make a table like this:
 
 | Col 1 | Col 2 | Col 3 |
--------------------------
+|-------|-------|-------|
 | X     |    X  |  X    |
 | X     |    X  |  X    |
 | X     |    X  |  X    |
